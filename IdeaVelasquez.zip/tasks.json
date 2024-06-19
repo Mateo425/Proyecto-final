@@ -1,0 +1,4 @@
+[
+    { "descripcion": "Hacer la compra", "completada": false },
+    { "descripcion": "Llamar al médico", "completada": true }
+]
